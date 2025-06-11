@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnold Manzi
 - 👀 I’m interested in Software Development (Web/Mobile/Cloud)
-- 🌱 I’m currently learning - Python & javaScript
+- 🌱 I’m currently learning - web designing
 - 💞️ I’m looking to collaborate on - Innovative web/app projects & Hackathons or coding challenges
 - 📫 How to reach me - Email: a.manziine@alustudent.com
 - 😄 Pronouns: He/him
