@@ -16,12 +16,12 @@
 
 ## 👋 About Me
 
-I'm a **Backend Software Engineer** and **IT Infrastructure** professional based in Ottawa, Canada, with hands-on experience designing scalable microservices, data pipelines, and automated QC systems for AI-robotics platforms.
+I'm a **Full Stack Engineer** and **IT Infrastructure** professional based in Ottawa, Canada, with hands-on experience designing scalable microservices, data pipelines, and automated QC systems for AI-robotics platforms.
 
 Currently working as **Technical Support Intern / AI Software Engineer & Head of QC** at [Verlet Robotics](https://github.com/orgs/verlet-robotics/repositories) (YC '28) — building high-throughput data verification infrastructure for physical AI development.
 
 ```text
-📍 Ottawa, ON, Canada              🤝 Open to: Backend | DevOps | IT Infrastructure roles
+📍 Ottawa, ON, Canada              🤝 Open to: Full Stack Engineer � Backend � DevOps � IT Infrastructure roles
 🛠️  Languages: Python, Node.js, TypeScript    ☁️  Cloud: DigitalOcean, Vercel, AWS (learning)
 ⚡ Strengths: APIs, CI/CD, Data Pipelines     🌐 Languages: English (Fluent) | French (Fluent)
 ```
@@ -133,3 +133,4 @@ Currently working as **Technical Support Intern / AI Software Engineer & Head of
 *"Build systems that scale. Write code that lasts."*
 
 </div>
+
