@@ -72,12 +72,14 @@ Currently working as **Technical Support Intern / AI Software Engineer & Head of
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🏥 [**patient-followup-api**](https://github.com/Manziine/Digital-patient-follow-up) | Secure distributed patient-tracking backend with JWT auth & real-time messaging | Node.js, MongoDB, JWT |
-| 🤖 [**fastapi-microservice-starter**](https://github.com/Manziine/fastapi-microservice-starter) | Production-ready FastAPI microservice template with CI/CD, Redis, Docker | Python, FastAPI, PostgreSQL, Docker |
-| ⚙️ [**devops-ci-cd-pipeline**](https://github.com/Manziine/devops-ci-cd-pipeline) | Full CI/CD pipeline: GitHub Actions → Docker → Nginx → Cloud deploy | Docker, GitHub Actions, Nginx, Terraform |
-| 🌍 [**Skynza-Jobs**](https://github.com/Manziine/Skynza-Jobs) | Global job search platform using real-time employment APIs across all locations | JavaScript, REST APIs |
-| 🎬 [**movie-api**](https://github.com/Manziine/movie_API) | RESTful movie data API with Swagger docs and Docker deployment | Python / Node.js |
-| 🛠️ [**it-helpdesk-automation**](https://github.com/Manziine/it-helpdesk-automation) | IT automation toolkit: disk alerts, user onboarding, network diagnostics | Python, Bash, PowerShell |
+| ⚡ [**distributed-task-queue**](https://github.com/Manziine/distributed-task-queue) | Priority job queue with Redis sorted sets, exponential backoff retry, dead-letter queue, idempotency, and worker pool | Python, FastAPI, Redis, Docker |
+| 🔀 [**api-gateway-service**](https://github.com/Manziine/api-gateway-service) | API gateway with JWT auth, token bucket + sliding window rate limiting, circuit breaker, and load balancing | TypeScript, Node.js, Redis |
+| 🏥 [**patient-followup-api**](https://github.com/Manziine/Digital-patient-follow-up) | Secure distributed patient-tracking backend with JWT auth & role-based access control | Node.js, MongoDB, JWT |
+| 🔗 [**url-shortener-api**](https://github.com/Manziine/url-shortener-api) | Production URL shortener with Redis cache-first, Base62 encoding, click analytics, and rate limiting | Python, FastAPI, Redis, PostgreSQL |
+| 📊 [**system-monitor-dashboard**](https://github.com/Manziine/system-monitor-dashboard) | Prometheus + Grafana monitoring stack with custom Python exporter, alerting rules, and Docker deploy | Prometheus, Grafana, Python |
+| 🛠️ [**it-helpdesk-automation**](https://github.com/Manziine/it-helpdesk-automation) | IT automation toolkit: disk monitor, network diagnostics, log analysis, user provisioning | Python, Bash |
+| 🤖 [**fastapi-microservice-starter**](https://github.com/Manziine/fastapi-microservice-starter) | Production FastAPI microservice template — JWT, Redis, PostgreSQL, Docker, GitHub Actions CI/CD | Python, FastAPI, Docker |
+| ⚙️ [**devops-ci-cd-pipeline**](https://github.com/Manziine/devops-ci-cd-pipeline) | End-to-end CI/CD: GitHub Actions → Docker → Nginx → Terraform → zero-downtime deploy | Docker, Terraform, Nginx |
 
 ---
 
