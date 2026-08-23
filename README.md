@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D2FF,100:0D1117&height=220&section=header&text=Arnaud%20Ineza%20Manzi&fontSize=50&fontColor=00D2FF&fontAlignY=36&desc=%24%20Full%20Stack%20Software%20Engineer%20%7C%20Distributed%20Systems%20%26%20Cloud&descSize=19&descColor=FFFFFF&descAlignY=58&animation=fadeIn" alt="Header" />
+<!-- HEADER WITH DYNAMIC TWINKLING BACKGROUND ANIMATION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D2FF,100:0D1117&height=220&section=header&text=Arnaud%20Ineza%20Manzi&fontSize=50&fontColor=00D2FF&fontAlignY=36&desc=%24%20Full%20Stack%20Software%20Engineer%20%7C%20Distributed%20Systems%20%26%20Cloud&descSize=19&descColor=FFFFFF&descAlignY=58&animation=twinkling" alt="Header" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -137,6 +137,14 @@ $ open_to
 
 <div align="center">
 
+<h3>🐍 Contribution Snake</h3>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+
+<br/><br/>
+
 <h3>📊 GitHub Analytics</h3>
 
 <br/>
@@ -147,12 +155,12 @@ $ open_to
 
 <br/><br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manziine&theme=tokyonight&hide_border=true)](https://github.com/Manziine)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Manziine&theme=tokyonight&hide_border=true)](https://github.com/Manziine)
 
 <br/><br/>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D2FF,100:0D1117&height=100&section=footer" alt="Footer" />
+<!-- FOOTER WITH DYNAMIC TWINKLING BACKGROUND ANIMATION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D2FF,100:0D1117&height=100&section=footer&animation=twinkling" alt="Footer" />
 
 *"Building scalable systems that last. Writing clean code that solves real problems."*
 
