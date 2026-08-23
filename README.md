@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=85&lines=%3E+initializing+Arnaud+Ineza+Manzi...;%3E+building+scalable+distributed+systems+%26+real-time+apps...;%3E+AI+Software+Engineer+%26+Head+of+QC+%40+Verlet+Robotics;%3E+status%3A+open+to+new+opportunities+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=85&lines=%3E+initializing+Arnaud+Ineza+Manzi...;%3E+building+scalable+distributed+systems+%26+real-time+apps...;%3E+Full+Stack+Software+Engineer+%7C+Cloud+%26+DevOps;%3E+status%3A+open+to+new+opportunities+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE VIEWS, FOLLOWERS & SOCIALS -->
@@ -26,9 +26,6 @@
 ```bash
 $ whoami
 > Arnaud Ineza Manzi | Full Stack Software Engineer
-
-$ current_role
-> AI Software Engineer & Head of QC @ Verlet Robotics (YC '28)
 
 $ location
 > Ottawa, ON, Canada 🇨🇦
@@ -104,9 +101,9 @@ $ open_to
 
 ```text
 ▶ Verlet Robotics (YC '28) | Remote (USA & Rwanda)
-  Role: AI Software Engineer & Head of QC (Aug 2025 – Present)
-  • Architecting scalable backend pipelines and automated QC frameworks to validate robotics datasets.
-  • Building high-reliability data infrastructure supporting physical AI hardware workflows.
+  Role: AI Software Engineer
+  • Architected scalable backend pipelines and data verification frameworks to process robotics datasets.
+  • Developed high-reliability data infrastructure supporting physical AI hardware workflows.
 
 ▶ COPE Solutions Canada | Brampton, ON, Canada
   Role: Customer Service Representative (Oct 2023 – Dec 2025)
