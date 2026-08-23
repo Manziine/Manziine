@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER WITH DYNAMIC TWINKLING BACKGROUND ANIMATION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D2FF,100:0D1117&height=220&section=header&text=Arnaud%20Ineza%20Manzi&fontSize=50&fontColor=00D2FF&fontAlignY=36&desc=%24%20Full%20Stack%20Software%20Engineer%20%7C%20Distributed%20Systems%20%26%20Cloud&descSize=19&descColor=FFFFFF&descAlignY=58&animation=twinkling" alt="Header" />
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D2FF,100:0D1117&height=200&section=header&text=Manziine&fontSize=70&fontColor=00D2FF&fontAlignY=35&desc=%24%20Full%20Stack%20Software%20Engineer%20%7C%20Distributed%20Systems&descSize=18&descColor=00D2FF&descAlignY=55&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -159,8 +159,8 @@ $ open_to
 
 <br/><br/>
 
-<!-- FOOTER WITH DYNAMIC TWINKLING BACKGROUND ANIMATION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D2FF,100:0D1117&height=100&section=footer&animation=twinkling" alt="Footer" />
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D2FF,100:0D1117&height=100&section=footer" />
 
 *"Building scalable systems that last. Writing clean code that solves real problems."*
 
