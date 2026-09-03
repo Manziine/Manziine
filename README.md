@@ -138,7 +138,7 @@ $ open_to
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+<img width="100%" src="https://raw.githubusercontent.com/Manziine/Manziine/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 
 <br/><br/>
 
